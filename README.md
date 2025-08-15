@@ -1,9 +1,9 @@
 # Overview
-have you ever missed the classic/pre-1.17 ores' texture
+have you ever missed the classic/pre-1.17 ores' textures?
 
-have you ever want to use them with modern Minecraft
+have you ever want to use them with modern Minecraft?
 
-No worries, with this simple, yet a nice resource pack for people who don't like the ores' new 1.17 patterns, it reverts back to their classic/pre-1.17 textures!
+No worries! with this simple yet a nice resource pack for people who don't like the ores' new 1.17 patterns, it reverts back to their classic/pre-1.17 textures!
 ## Quick FAQ
 **Q1:** Bedrock edition?
 
@@ -16,3 +16,7 @@ No worries, with this simple, yet a nice resource pack for people who don't like
 **Q3:** Can I use this in a modpack?
 
 **A3:** Yes, but a credit is nice, a link to this page is more than enough.
+
+**Q4:** It it compatible with 1.X?
+
+**A4:** It'll work from 1.17 and later, meaning it'll work on your game in most cases.
